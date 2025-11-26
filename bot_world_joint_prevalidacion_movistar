@@ -1,5 +1,5 @@
 {
   "bot_enabled": true,
   "disable_message": "Mantenimiento programado",
-  "allow_id_disk": ["00A0_7501_4F1D_E7DC."]
+  "allow_id_disk": ["00A0_7501_4F1D_E7DC.","00A0_7501_4F1D_E7DH."]
 }
